@@ -21,7 +21,7 @@
 
 <p align="center">
 Final-year <strong>Electronics & Communication Engineering student.<br/>
-I build things — from firmware to frontend. Comfortable moving between hardware and software,<br/>
+I build things from firmware to frontend. Comfortable moving between hardware and software,<br/>
 with a growing focus on shipping real, user-facing applications.
 </p>
 
