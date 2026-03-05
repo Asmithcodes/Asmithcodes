@@ -53,7 +53,5 @@ with a growing focus on shipping real, user-facing applications.
 
 <p>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
-</p>
-<p>
     <img src="https://skills.syvixor.com/api/icons?i=n8n" alt="n8n"/>
 </p>
