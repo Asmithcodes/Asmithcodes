@@ -15,7 +15,7 @@
     </a>
     &nbsp;
     <a href="https://asmithcodes.github.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
+        <img src="./favicon.svg" alt="Portfolio" width="48" height="48"/>
     </a>
 </p>
 
