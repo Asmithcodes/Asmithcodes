@@ -32,10 +32,7 @@ with a growing focus on shipping real, user-facing applications.
 <p>
     <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,mysql,php,matlab" />
 </p>
-<!-- <p>
-    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white" alt="Assembly"/>
-    <img src="https://img.shields.io/badge/Verilog%20HDL-5C2D91?style=flat-square&logoColor=white" alt="Verilog HDL"/>
-</p> -->
+
 
 ### Web & Frameworks
 
@@ -57,6 +54,6 @@ with a growing focus on shipping real, user-facing applications.
 <p>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
 </p>
-<!-- <p>
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-</p> -->
+<p>
+    <img src="https://skills.syvixor.com/api/icons?i=n8n" alt="n8n"/>
+</p>
