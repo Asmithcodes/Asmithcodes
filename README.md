@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asmith Pampana</h1>
-<h3 align="center">ECE Student &nbsp;·&nbsp; Software Builder &nbsp;·&nbsp; Hardware↔Software</h3>
+<h3 align="center">ECE Student &nbsp;·&nbsp; Software Builder &nbsp;·&nbsp; Hardware & Software</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/asmithpampana/" target="_blank">
@@ -20,9 +20,10 @@
 </p>
 
 <p align="center">
-Final-year <strong>Electronics & Communication Engineering</strong> student at VJIT, Hyderabad &nbsp;·&nbsp; CGPA <strong>8.95</strong><br/>
-I build things — from firmware to frontend. Comfortable moving between hardware and software,<br/>
-with a growing focus on shipping real, user-facing applications.
+I'm wrapping up my final year in <strong>Electronics & Communication Engineering,</strong> at VJIT in Hyderabad. Sitting at an <strong>8.95 CGPA</strong>, which I'm pretty happy about.
+</p>
+<p align="center">
+I build things. Firmware, frontend, whatever needs doing. I'm comfortable jumping between <i>hardware and software</i>, honestly, it's kind of the point of this degree. Lately though, I've been leaning more toward shipping actual applications that people use. Not just proofs of concept. Real stuff.
 </p>
 
 ---
