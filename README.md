@@ -19,12 +19,12 @@
     </a>
 </p>
 
-<p align="center">
+<h3 align="center">
 I'm wrapping up my final year in <strong>Electronics & Communication Engineering,</strong> at VJIT in Hyderabad. Sitting at an <strong>8.95 CGPA</strong>, which I'm pretty happy about.
-</p>
-<p align="center">
+</h3>
+<h4 align="center">
 I build things. Firmware, frontend, whatever needs doing. I'm comfortable jumping between <i>hardware and software</i>, honestly, it's kind of the point of this degree. Lately though, I've been leaning more toward shipping actual applications that people use. Not just proofs of concept. Real stuff.
-</p>
+</h4>
 
 ---
 
