@@ -31,7 +31,7 @@ I build things. Firmware, frontend, whatever needs doing. I'm comfortable jumpin
 ### Languages
 
 <p>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,mysql,php,matlab" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,mysql,matlab" />
 </p>
 
 
